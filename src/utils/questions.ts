@@ -1,13 +1,15 @@
 const questions = [
+  // 1
   {
-    question: `The riddle: 
-      Count the carbons, in a chain they align, Six in number, a clue intertwined. Hydrogens join, their count you must seek, Multiplying onwards, the answer you'll peek.Oxygen whispers, its presence made known, A vital ingredient, in our body it's shown.For in the realm of riddles, knowledge shall rise, Revealing the mass, where the answer lies.
+    question: `
+      The riddle:
+      Count the carbons, in a chain they align, Six in number, a clue intertwined. Hydrogens join, their count you must seek, Multiplying onwards, the answer you'll peek. Oxygen whispers, its presence made known, A vital ingredient, in our body it's shown. For in the realm of riddles, knowledge shall rise, revealing the mass, where the answer lies.
     `,
     answers: [
         "180"
     ]
   },
-  
+  // 2
   {
     question: `
     "Crack the code, the secret untold. In numbers and symbols, the message unfolds. Seek the key that unlocks the way, and decipher the puzzle's display"
@@ -21,32 +23,30 @@ const questions = [
         "5249"
     ]
   },
-
+  // 3
   {
-    question: "From the beginning of the beryl's gleam, to the end of fiery dance. Seek the lightest of metals, a foundation to be, and the heaviest alkali that sets atoms free. Use our combination to unlock what it is you seek.",
+    question: "From the beginning of the beryl's gleam, to the end of the fiery dance. Seek one of the lightest of metals, a foundation to be, and the heaviest alkali that sets atoms free. Use our numerical combination to unlock what it is you seek.",
     answers: [
         "487"
     ]
   },
-
+  // 4
   {
     question: `
-      The clue: In ones and zeroes, the answer is true. A binary sequence holds the key, To a number that sets you free. Digits align, binary's embrace, Unveils the secret, at a steady pace.In the sequence 1000000000 lies the number that you embrace.
+      The clue: In ones and zeroes, the answer is true. A binary sequence holds the key, To a number that sets you free. Digits align, binary's embrace, unveils the secret, at a steady pace. In the sequence 1011101111101 lies the number that you embrace.
     `,
     answers: [
-        "512"
+        "6013"
     ]
   },
+  // 5
   {
     question: `
-      Unlock the secrets of the past, for the answer lies in the numbers amassed. Remember the quartet you've once possessed, together they'll lead you to the treasure chest. In numbers we dwell, a riddle to tell,
-      Four numbers and digits, a puzzle to excel.
-      Seek the smallest among each, it must be expelled,
-      Combine what's left and add something but nothing at the end.
-      Then the solution will align.   
+      This iconic figure, known for their pioneering historic journey, transcended the boundaries of Earth's atmosphere and defied gravity. Decode the hidden language of the ancients, where A is the first and Z the last. As you unveil the mystical pattern, each letter shall reveal its secret number, unlocking the enigma of this ancient script.
     `,
     answers: [
-        "1803719487512"
+        "252118971187118914",
+        "2521189 71187118914"
     ]
   },
 ]
