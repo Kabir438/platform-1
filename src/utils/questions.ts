@@ -42,7 +42,9 @@ const questions = [
   // 5
   {
     question: `
-      This iconic figure, known for their pioneering historic journey, transcended the boundaries of Earth's atmosphere and defied gravity. Decode the hidden language of the ancients, where A is the first and Z the last. As you unveil the mystical pattern, each letter shall reveal its secret number, unlocking the enigma of this ancient script.
+      This iconic figure, known for their pioneering historic journey, transcended the boundaries of Earth's atmosphere and defied gravity. 
+      
+      Decode the hidden language of the ancients, where A is the first and Z the last. As you unveil the mystical pattern, each letter shall reveal its secret number, unlocking the enigma of this ancient script.
     `,
     answers: [
         "252118971187118914",
