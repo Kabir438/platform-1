@@ -12,12 +12,8 @@ const questions = [
   // 2
   {
     question: `
-    "Crack the code, the secret untold. In numbers and symbols, the message unfolds. Seek the key that unlocks the way, and decipher the puzzle's display"
-
-    7325- 2 right and in the incorrect place.
-    9146- 2 right but is in the incorrect place.
-    5201- 2 right and in the right position
-    3680- all are wrong
+    "
+      Crack the code, the secret untold. In numbers and symbols, the message unfolds. Seek the key that unlocks the way, and decipher the puzzle's display" 7325- 2 digits are correct but in in incorrect positions 9146- 2 digits are right but one of them is in an incorrect position 5201- 2 digits are right and in the right position 3680- All of these digits are wrong. The final number will be 5249.
     `,
     answers: [
         "5249"
