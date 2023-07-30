@@ -43,8 +43,8 @@ const questions = [
       Decode the hidden language of the ancients, where A is the first and Z the last. As you unveil the mystical pattern, each letter shall reveal its secret number, unlocking the enigma of this ancient script.
     `,
     answers: [
-        "252118971187118914",
-        "2521189 71187118914"
+        "2521189717118914",
+        "2521189 717118914"
     ]
   },
 ]
